@@ -1,1 +1,1 @@
-iteration_8_collation,https://github.com/hardikar/gpdb
+fix-dedup-join,https://github.com/bhuvnesh2703/gpdb
