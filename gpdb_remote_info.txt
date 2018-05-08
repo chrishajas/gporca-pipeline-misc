@@ -1,1 +1,1 @@
-fix-dedup-join,https://github.com/bhuvnesh2703/gpdb
+master,https://github.com/origin/gpdb
