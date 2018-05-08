@@ -1,1 +1,1 @@
-orca_collation_support,https://github.com/greenplum-db/gporca
+master,https://github.com/greenplum-db/gporca
