@@ -1,1 +1,1 @@
-bump_orca,https://github.com/khannaekta/gpdb
+test-prejoin,https://github.com/bhuvnesh2703/gpdb
