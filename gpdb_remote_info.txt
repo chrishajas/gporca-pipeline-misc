@@ -1,1 +1,1 @@
-hll_pr,https://github.com/khannaekta/gpdb
+hyperloglog_analyze_test,https://github.com/oarap/gpdb
