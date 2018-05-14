@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gporca
+avoid-collision-w-std-macros-use-enum,https://github.com/d/gporca
