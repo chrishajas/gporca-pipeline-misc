@@ -1,1 +1,1 @@
-remove-left-var,https://github.com/bhuvnesh2703/gpdb
+avoid-collision-w-std-macros-use-enum,https://github.com/d/gpdb
