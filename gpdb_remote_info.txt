@@ -1,1 +1,1 @@
-move_tinc_tests,https://github.com/sambitesh/gpdb
+hll_pr_norebase,https://github.com/khannaekta/gpdb
