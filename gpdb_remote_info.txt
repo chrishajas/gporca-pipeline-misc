@@ -1,1 +1,1 @@
-hll_pr_norebase,https://github.com/khannaekta/gpdb
+master,https://github.com/greenplum-db/gpdb
