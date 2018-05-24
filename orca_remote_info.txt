@@ -1,1 +1,1 @@
-fixprintxform,https://github.com/oarap/gporca
+fapplyonce,https://github.com/greenplum-db/gporca
