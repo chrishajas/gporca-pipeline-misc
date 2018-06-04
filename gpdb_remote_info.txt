@@ -1,1 +1,1 @@
-alignattnum,https://github.com/oarap/gpdb
+master,https://github.com/greenplum-db/gpdb
