@@ -1,1 +1,1 @@
-port-test-dedup,https://github.com/bhuvnesh2703/gpdb
+hll_pr_rebase,https://github.com/oarap/gpdb
