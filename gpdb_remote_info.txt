@@ -1,1 +1,1 @@
-hll_pr_rebase,https://github.com/oarap/gpdb
+numeric_short,https://github.com/oarap/gpdb
