@@ -1,1 +1,1 @@
-hyperloglog_analyze_test,https://github.com/oarap/gpdb
+hyperloglog_analyze,https://github.com/oarap/gpdb
