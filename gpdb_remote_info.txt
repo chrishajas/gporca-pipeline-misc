@@ -1,1 +1,1 @@
-new_greedy_xform,https://github.com/khannaekta/gpdb
+master,https://github.com/greenplum-db/gpdb
