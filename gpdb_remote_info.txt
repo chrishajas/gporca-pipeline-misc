@@ -1,1 +1,1 @@
-bump_orca_version,https://github.com/asubramanya/gpdb
+remove_hungarian,https://github.com/melanieplageman/gpdb
