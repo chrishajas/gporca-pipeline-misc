@@ -1,1 +1,1 @@
-aoco_index_scan,https://github.com/khannaekta/gpdb
+fix_analyze_dropped_col,https://github.com/oarap/gpdb
