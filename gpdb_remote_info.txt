@@ -1,1 +1,1 @@
-5X_STABLE,https://github.com/greenplum-db/gpdb
+fix_analyze_dropped_col,https://github.com/oarap/gpdb
