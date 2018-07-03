@@ -1,1 +1,1 @@
-bitmap_index_improvement,https://github.com/dhanashreek89/gporca
+remove_hungarian,https://github.com/greenplum-db/gporca

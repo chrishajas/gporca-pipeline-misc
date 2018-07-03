@@ -1,1 +1,1 @@
-sample,https://github.com/dhanashreek89/gpdb
+remove_hungarian,https://github.com/melanieplageman/gpdb
