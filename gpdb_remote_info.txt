@@ -1,1 +1,1 @@
-move_hll_as_catalog_func,https://github.com/oarap/gpdb
+enable_orca_nested_index,https://github.com/khannaekta/gpdb
