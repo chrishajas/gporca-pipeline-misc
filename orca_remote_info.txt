@@ -1,1 +1,1 @@
-update_indexapply_pattern,https://github.com/khannaekta/gporca
+enable_orca_nested_index,https://github.com/khannaekta/gporca
