@@ -1,1 +1,1 @@
-5X_STABLE,https://github.com/bhuvnesh2703/gpdb
+gistOnmaster,https://github.com/ashuka24/gpdb
