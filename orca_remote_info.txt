@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gporca
+squashedGist,https://github.com/ashuka24/gporca

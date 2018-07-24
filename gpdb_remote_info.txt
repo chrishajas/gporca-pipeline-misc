@@ -1,1 +1,1 @@
-reltuples_estimate,https://github.com/oarap/gpdb
+squashedGist,https://github.com/ashuka24/gpdb
