@@ -1,1 +1,1 @@
-sample_5x,https://github.com/bhuvnesh2703/gpdb
+move_hll_as_catalog_func,https://github.com/oarap/gpdb
