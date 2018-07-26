@@ -1,1 +1,1 @@
-remove_hungarian,https://github.com/greenplum-db/gpdb
+remove_hungarian,https://github.com/melanieplageman/gpdb
