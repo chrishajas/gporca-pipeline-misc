@@ -1,1 +1,1 @@
-hungarian_pr,https://github.com/khannaekta/gpdb
+remove_hungarian,https://github.com/melanieplageman/gpdb
