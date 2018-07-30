@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gporca
+v2.65.0,https://github.com/greenplum-db/gporca
