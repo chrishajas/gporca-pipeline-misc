@@ -1,1 +1,1 @@
-fix_scan_cost,https://github.com/greenplum-db/gporca
+fix-redis-exprdxl,https://github.com/bhuvnesh2703/gporca
