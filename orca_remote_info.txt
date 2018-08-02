@@ -1,1 +1,1 @@
-union_fix,https://github.com/hardikar/gporca
+master,https://github.com/greenplum-db/gporca
