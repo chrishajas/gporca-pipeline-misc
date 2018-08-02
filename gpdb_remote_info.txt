@@ -1,1 +1,1 @@
-motionhazard_guc,https://github.com/dhanashreek89/gpdb
+master,https://github.com/hardikar/gpdb
