@@ -1,1 +1,1 @@
-external-table-fallback,https://github.com/bhuvnesh2703/gpdb
+gistOn5X,https://github.com/ashuka24/gpdb
