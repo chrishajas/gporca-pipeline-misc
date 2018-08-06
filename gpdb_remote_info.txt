@@ -1,1 +1,1 @@
-test_hungariam,https://github.com/sambitesh/gpdb
+test_hungarian,https://github.com/sambitesh/gpdb
