@@ -1,1 +1,1 @@
-motionhazard_guc,https://github.com/dhanashreek89/gpdb
+remove_hungarian_5XSTABLE,https://github.com/sambitesh/gpdb
