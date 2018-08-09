@@ -1,1 +1,1 @@
-remove_hungarian_5XSTABLE,https://github.com/sambitesh/gpdb
+auto_merge_analyze,https://github.com/oarap/gpdb
