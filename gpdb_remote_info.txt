@@ -1,1 +1,1 @@
-auto_merge_analyze,https://github.com/oarap/gpdb
+5X_STABLE_Hung,https://github.com/bhuvnesh2703/gpdb
