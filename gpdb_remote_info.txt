@@ -1,1 +1,1 @@
-motionhazard_guc,https://github.com/dhanashreek89/gpdb
+auto_merge_analyze,https://github.com/oarap/gpdb
