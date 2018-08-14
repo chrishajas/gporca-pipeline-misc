@@ -1,1 +1,1 @@
-b466a4943b1fd33ff3b1675756930e11251852c8,https://github.com/melanieplageman/gpdb
+remove_hungarian,https://github.com/melanieplageman/gpdb
