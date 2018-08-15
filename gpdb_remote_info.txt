@@ -1,1 +1,1 @@
-5X_STABLE_remove_hungarian,https://github.com/bhuvnesh2703/gpdb
+remove_hungarian,https://github.com/bhuvnesh2703/gpdb
