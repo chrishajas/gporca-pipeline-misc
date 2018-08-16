@@ -1,1 +1,1 @@
-do-not-push-inferred-quals-on-outer-join,https://github.com/joaopapereira/gpdb
+master,https://github.com/greenplum-db/gpdb
