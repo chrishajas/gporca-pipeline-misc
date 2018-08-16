@@ -1,1 +1,1 @@
-DML_gather,https://github.com/dhanashreek89/gporca
+fix_scan_cost,https://github.com/greenplum-db/gporca
