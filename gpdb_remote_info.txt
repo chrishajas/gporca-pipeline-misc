@@ -1,1 +1,1 @@
-backport_ia,https://github.com/oarap/gpdb
+auto_merge_analyze,https://github.com/oarap/gpdb
