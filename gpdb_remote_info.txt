@@ -1,1 +1,1 @@
-newbackport,https://github.com/oarap/gpdb
+non_assert_build,https://github.com/asubramanya/gpdb
