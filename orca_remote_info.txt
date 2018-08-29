@@ -1,1 +1,1 @@
-DML_gather,https://github.com/dhanashreek89/gporca
+strict_spec_test,https://github.com/bhuvnesh2703/gporca
