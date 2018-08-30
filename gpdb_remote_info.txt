@@ -1,1 +1,1 @@
-implement_insert_redist,https://github.com/bhuvnesh2703/gpdb
+fix_auto_merge_5x,https://github.com/oarap/gpdb
