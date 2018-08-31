@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gporca
+fix-inferpred,https://github.com/bhuvnesh2703/gporca
