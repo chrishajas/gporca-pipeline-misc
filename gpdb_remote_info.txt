@@ -1,1 +1,1 @@
-fix_automerge2,https://github.com/oarap/gpdb
+fix_automerge5x,https://github.com/oarap/gpdb
