@@ -1,1 +1,1 @@
-fix_analyzerootpartition5x,https://github.com/oarap/gpdb
+update_analyze_logs5x,https://github.com/oarap/gpdb
