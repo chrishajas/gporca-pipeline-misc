@@ -1,1 +1,1 @@
-update_ia_logs,https://github.com/oarap/gpdb
+fix_analyzerootpartition5x,https://github.com/oarap/gpdb
