@@ -1,1 +1,1 @@
-motionhazard_guc,https://github.com/dhanashreek89/gpdb
+force_guc_defaults,https://github.com/vraghavan78/gpdb
