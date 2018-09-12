@@ -1,1 +1,1 @@
-force_guc_defaults,https://github.com/vraghavan78/gpdb
+master,https://github.com/greenplum-db/gpdb
