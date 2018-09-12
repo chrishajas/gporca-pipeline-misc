@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gpdb
+masternew,https://github.com/greenplum-db/gpdb
