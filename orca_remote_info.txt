@@ -1,1 +1,1 @@
-gporca,https://github.com/greenplum-db/gporca
+strict_spec,https://github.com/bhuvnesh2703/gporca
