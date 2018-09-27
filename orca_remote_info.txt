@@ -1,1 +1,1 @@
-indexnlj_joinfilter,https://github.com/hardikar/gporca
+outer_joins_greedy,https://github.com/sambitesh/gporca
