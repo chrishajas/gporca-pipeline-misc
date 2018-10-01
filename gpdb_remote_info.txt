@@ -1,1 +1,1 @@
-fix-analyze-varchar-array,https://github.com/bhuvnesh2703/gpdb
+fix-analyze-varchar,https://github.com/bhuvnesh2703/gpdb
