@@ -1,1 +1,1 @@
-nlj_no_broadcast2,https://github.com/hardikar/gporca
+replicated_tables_orca_rebase,https://github.com/asubramanya/gporca
