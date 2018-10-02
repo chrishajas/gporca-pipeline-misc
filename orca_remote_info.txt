@@ -1,1 +1,1 @@
-replicated_tables_orca_rebase,https://github.com/asubramanya/gporca
+replicate_tables_orca_rebase,https://github.com/asubramanya/gporca
