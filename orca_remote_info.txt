@@ -1,1 +1,1 @@
-outer_joins_greedy,https://github.com/sambitesh/gporca
+nlj_no_broadcast2,https://github.com/hardikar/gporca
