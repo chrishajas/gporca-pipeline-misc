@@ -1,1 +1,1 @@
-replicated_tables_orca_rebase,https://github.com/asubramanya/gpdb
+replicated_table_orca_rebase,https://github.com/asubramanya/gpdb
