@@ -1,1 +1,1 @@
-fix_array_hash,https://github.com/asubramanya/gpdb
+master,https://github.com/greenplum-db/gpdb
