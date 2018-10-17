@@ -1,1 +1,1 @@
-replicated_table_orca_5X,https://github.com/asubramanya/gpdb
+master,https://github.com/greenplum-db/gpdb
