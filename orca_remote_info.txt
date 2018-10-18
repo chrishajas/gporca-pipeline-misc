@@ -1,1 +1,1 @@
-outer_joins_greedy,https://github.com/sambitesh/gporca
+v3.4.0,https://github.com/greenplum-db/gporca

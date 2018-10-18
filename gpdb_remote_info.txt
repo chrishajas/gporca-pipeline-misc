@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gpdb
+distinct_calc,https://github.com/hardikar/gpdb
