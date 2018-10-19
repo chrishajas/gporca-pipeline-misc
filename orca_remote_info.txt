@@ -1,1 +1,1 @@
-fix-insert,https://github.com/bhuvnesh2703/gporca
+outer_joins_greedy,https://github.com/sambitesh/gporca
