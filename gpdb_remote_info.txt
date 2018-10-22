@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gpdb
+update-message,https://github.com/bhuvnesh2703/gpdb
