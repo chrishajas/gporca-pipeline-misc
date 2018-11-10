@@ -1,1 +1,1 @@
-outerjoin2,https://github.com/sambitesh/gporca
+infer_pred,https://github.com/hardikar/gporca
