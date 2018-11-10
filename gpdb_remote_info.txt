@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gpdb
+fix-mem-leak-evalpartqual,https://github.com/bhuvnesh2703/gpdb
