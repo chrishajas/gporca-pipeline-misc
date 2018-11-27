@@ -1,1 +1,1 @@
-5X_STABLE,https://github.com/greenplum-db/gpdb
+correlated_subquery_multiple_rows,https://github.com/asubramanya/gpdb
