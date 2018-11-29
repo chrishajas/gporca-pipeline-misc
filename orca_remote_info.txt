@@ -1,1 +1,1 @@
-correlated_subquery_multiple_rows,https://github.com/iyerr3/gporca
+master,https://github.com/greenplum-db/gporca
