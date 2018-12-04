@@ -1,1 +1,1 @@
-normalize-semijoin-2,https://github.com/iyerr3/gporca
+update_split,https://github.com/sambitesh/gporca
