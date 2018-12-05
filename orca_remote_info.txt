@@ -1,1 +1,1 @@
-MSInferPreds,https://github.com/zellerh/gporca
+master,https://github.com/greenplum-db/gporca
