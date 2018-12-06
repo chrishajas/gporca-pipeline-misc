@@ -1,1 +1,1 @@
-fix-policy-check,https://github.com/bhuvnesh2703/gpdb
+InferPreds,https://github.com/hardikar/gpdb
