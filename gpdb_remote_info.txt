@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gpdb
+motions_for_agg,https://github.com/zellerh/gpdb
