@@ -1,1 +1,1 @@
-eager-agg,https://github.com/iyerr3/gpdb
+master,https://github.com/greenplum-db/gpdb

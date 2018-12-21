@@ -1,1 +1,1 @@
-eager-agg,https://github.com/greenplum-db/gporca
+use_def_card_timestamp,https://github.com/chrishajas/gporca
