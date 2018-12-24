@@ -1,1 +1,1 @@
-use_def_card_timestamp,https://github.com/chrishajas/gporca
+dqa_min_max,https://github.com/hardikar/gporca
