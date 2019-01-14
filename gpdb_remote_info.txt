@@ -1,1 +1,1 @@
-5X_STABL,https://github.com/greenplum-db/gpdb
+5X_STABLE,https://github.com/greenplum-db/gpdb
