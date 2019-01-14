@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gporca
+dqa_min_max,https://github.com/hardikar/gporca
