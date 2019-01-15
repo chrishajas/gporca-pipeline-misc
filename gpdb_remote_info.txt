@@ -1,1 +1,1 @@
-5X_STABLE,https://github.com/greenplum-db/gpdb
+revert_ndv_based_card_estimation_master,https://github.com/asubramanya/gpdb

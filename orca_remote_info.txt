@@ -1,1 +1,1 @@
-master,https://github.com/greenplum-db/gporca
+revert_ndv_based_card_estimation_master,https://github.com/asubramanya/gporca
