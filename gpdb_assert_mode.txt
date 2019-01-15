@@ -1,1 +1,1 @@
-enable-cassert
+disable-cassert
