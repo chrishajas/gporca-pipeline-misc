@@ -1,1 +1,1 @@
-revert_ndv_based_card_estimation_master,https://github.com/asubramanya/gpdb
+use-hash-opclass-for-distributed-by,https://github.com/bhuvnesh2703/gpdb
