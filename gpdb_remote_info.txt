@@ -1,1 +1,1 @@
-use-hash-opclass-for-distributed-by,https://github.com/bhuvnesh2703/gpdb
+5X_STABLE,https://github.com/greenplum-db/gpdb
