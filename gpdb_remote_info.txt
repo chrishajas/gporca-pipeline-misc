@@ -1,1 +1,1 @@
-use-hash-opclass-for-distributed-by-pr,https://github.com/asubramanya/gpdb
+orca_v3.18.0,https://github.com/hardikar/gpdb
