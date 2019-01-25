@@ -1,1 +1,1 @@
-use-hash-opclass-for-distributed-by2,https://github.com/hlinnaka/gpdb
+master,https://github.com/greenplum-db/gpdb
